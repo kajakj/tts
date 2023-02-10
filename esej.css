@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-left: 15cm;
+    padding-right: 15cm;
+    font-size: 0.5cm;
+    
+}
+
+body img {
+   max-width: 100%; 
+   height: auto;
+}
+
