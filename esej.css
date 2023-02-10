@@ -1,12 +1,22 @@
 body {
     background-color: black;
     color: white;
-    text-align: center;
-    padding-left: 15cm;
-    padding-right: 15cm;
+/*  */
+    padding-left: 10cm;
+    padding-right: 10cm;
     font-size: 0.5cm;
-    
-    
+} 
+
+h3 {
+    font-size: 30px;
+}
+
+.okno {
+ width: auto;
+  border: 15px solid green;
+  padding: 15px;
+ margin-left: 10px;
+  margin-right: 10px;
 }
 
 body img {
